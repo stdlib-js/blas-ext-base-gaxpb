@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-17)
+## Unreleased (2026-06-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`cd863cf`](https://github.com/stdlib-js/stdlib/commit/cd863cfcc93259fc77714263c6c8b532c84563a3) - **docs:** propagate recent develop fixes to sibling packages [(#12642)](https://github.com/stdlib-js/stdlib/pull/12642) _(by Philipp Burckhardt)_
 -   [`fbf2d91`](https://github.com/stdlib-js/stdlib/commit/fbf2d918b4fba88e148b3deba62b37cb667524aa) - **test:** fix typo in test description [(#12176)](https://github.com/stdlib-js/stdlib/pull/12176) _(by Philipp Burckhardt)_
 -   [`b28f7b8`](https://github.com/stdlib-js/stdlib/commit/b28f7b8960745d35e8daa745713b487a70d56596) - **feat:** add `blas/ext/base/gaxpb` [(#12166)](https://github.com/stdlib-js/stdlib/pull/12166) _(by Karan Anand, Athan Reines)_
 
